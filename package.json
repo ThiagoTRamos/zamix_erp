@@ -1,5 +1,5 @@
 {
-      "private": true,
+      "private": false,
     "scripts": {
         "build": "npm run build",
         "dev": "npm run development",
