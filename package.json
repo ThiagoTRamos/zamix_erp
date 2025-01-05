@@ -1,7 +1,7 @@
 {
       "private": true,
+      
       "scripts": {"build": "tsc"},
-
       "scripts": {
             "dev": "npm run development",
             "build": "npm run build",
