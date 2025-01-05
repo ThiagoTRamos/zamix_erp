@@ -1,7 +1,7 @@
 {
       "private": true,
       
-      "scripts": {"build": "tsc"},
+     
       "scripts": {
             "dev": "npm run development",
             "build": "npm run build",
@@ -21,5 +21,8 @@
             "lodash": "^4.17.4",
             "typescript": "^5.7.2",
             "vue": "^3.5.13"
+      }
+      {
+            "build": "tsc"
       }
 }
